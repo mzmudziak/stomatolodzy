@@ -21,7 +21,7 @@ context('Crawl', () => {
         page.elements.push(element)
       });
       data.push(page);
-      cy.wait(3000)
+      cy.wait(500)
     }));
 
   after(() => {
