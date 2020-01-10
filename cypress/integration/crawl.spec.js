@@ -5,16 +5,16 @@ context('Crawl', () => {
     it(`crawls page num ${num}`, () => {
       cy.visit(baseUrl + num);
       cy.get('ul.wizResBox>li').each(($rows, index) => {
-        const element = {
-          address: {}
-        };
-        element.name = $rows.find('.przeppoz').text();
-        element.address.street = $rows.find('div[itemprop="streetAddress"]').text();
-        element.address.postalCode = $rows.find('span[itemprop="postalCode"]').text();
-        element.address.city = $rows.find('span[itemprop="addressLocality"]').text();
-        element.address.region = $rows.find('span[itemprop="addressRegion"]').text();
-        element.phone = $rows.find('div[itemprop="telephone"]').text();
-        data.push(element)
+        data.push({
+          name: $rows.find('.przeppoz').text(),
+          phone: $rows.find('div[itemprop="telephone"]').text(),
+          address: {
+            street: $rows.find('div[itemprop="streetAddress"]').text(),
+            postalCode: $rows.find('span[itemprop="postalCode"]').text(),
+            city: $rows.find('span[itemprop="addressLocality"]').text(),
+            region: $rows.find('span[itemprop="addressRegion"]').text()
+          }
+        })
       });
       cy.wait(500)
     }));
