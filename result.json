@@ -1,0 +1,1052 @@
+[
+  {
+    "address": {
+      "street": "ul. Szybka 5b",
+      "postalCode": "50-421",
+      "city": "Wrocław",
+      "region": "dolnośląskie"
+    },
+    "name": "ILTODONT Stomatologia",
+    "phone": "kom. 731 193 740 "
+  },
+  {
+    "address": {
+      "street": "ul. Trawowa 59a",
+      "postalCode": "54-614",
+      "city": "Wrocław",
+      "region": "dolnośląskie"
+    },
+    "name": "Centrum Stomatologiczne MARGO Sp. z o.o.",
+    "phone": "tel./fax (71) 796 09 99kom. 501 785 090"
+  },
+  {
+    "address": {
+      "street": "ul. Świętokrzyska 5 lok.4",
+      "postalCode": "15-843",
+      "city": "Białystok",
+      "region": "podlaskie"
+    },
+    "name": "ARS-DENT Wielospecjalistyczna Klinika Stomatologiczna",
+    "phone": "tel. (85) 664 08 83 "
+  },
+  {
+    "address": {
+      "street": "ul. Światowida 49 lok.22",
+      "postalCode": "03-144",
+      "city": "Warszawa",
+      "region": "mazowieckie"
+    },
+    "name": "Barbara Ziółkowska Protetyka Specjalistyczny Gabinet Stomatologiczny SOLO-DENT",
+    "phone": "kom. 502 525 355tel. (22) 466 01 06"
+  },
+  {
+    "address": {
+      "street": "ul. 11 Listopada 72a/4",
+      "postalCode": "74-100",
+      "city": "Gryfino",
+      "region": "zachodniopomorskie"
+    },
+    "name": "Centrum Implantologii i Stomatologii Estetycznej S-Dent",
+    "phone": "tel. (91) 415 02 92kom. 517 491 014"
+  },
+  {
+    "address": {
+      "street": "ul. Sienkiewicza 81/3",
+      "postalCode": "15-005",
+      "city": "Białystok",
+      "region": "podlaskie"
+    },
+    "name": "Centrum Stomatologii CLASSIC S.c.",
+    "phone": "tel. (85) 676 13 05tel. (85) 676 11 63"
+  },
+  {
+    "address": {
+      "street": "",
+      "postalCode": "",
+      "city": "",
+      "region": ""
+    },
+    "name": "",
+    "phone": ""
+  },
+  {
+    "address": {
+      "street": "ul. Szolc-Rogozinskiego 3",
+      "postalCode": "02-777",
+      "city": "Warszawa",
+      "region": "mazowieckie"
+    },
+    "name": "Centrum Stomatologii Dzieci i Młodzieży ELEFANT",
+    "phone": "tel. (22) 644 54 54 "
+  },
+  {
+    "address": {
+      "street": "ul. Wyszyńskiego 2",
+      "postalCode": "95-200",
+      "city": "Pabianice",
+      "region": "łódzkie"
+    },
+    "name": "Centrum Stomatologii Estetycznej",
+    "phone": "tel. (42) 215 24 99 "
+  },
+  {
+    "address": {
+      "street": "ul. Międzyborska 19",
+      "postalCode": "04-041",
+      "city": "Warszawa",
+      "region": "mazowieckie"
+    },
+    "name": "CorDent Gabinet Stomatologiczny",
+    "phone": "tel. (22) 813 88 88 "
+  },
+  {
+    "address": {
+      "street": "ul. Porzeczkowa 14",
+      "postalCode": "15-815",
+      "city": "Białystok",
+      "region": "podlaskie"
+    },
+    "name": "CZAR-DENT Centrum Implantologii i Stomatologii Estetycznej",
+    "phone": "tel. (85) 653 70 61 ul. Porzeczkowatel. (85) 661 01 61 ul. Świętokrzyska"
+  },
+  {
+    "address": {
+      "street": "ul. Na Zjeździe 13",
+      "postalCode": "30-527",
+      "city": "Kraków",
+      "region": "małopolskie"
+    },
+    "name": "Denta-Med Stomatolog",
+    "phone": "tel. (12) 259 80 00 "
+  },
+  {
+    "address": {
+      "street": "ul. Piastowska 15/2",
+      "postalCode": "43-300",
+      "city": "Bielsko-Biała",
+      "region": "śląskie"
+    },
+    "name": "Dentysta lek. stom. Beata Jarczewska-Głośnicka",
+    "phone": "kom. 509 425 145 - Bielsko-Białakom. 534 900 120 - Wilamowice"
+  },
+  {
+    "address": {
+      "street": "ul. Pawła Kołodzieja 8",
+      "postalCode": "40-749",
+      "city": "Katowice",
+      "region": "śląskie"
+    },
+    "name": "DUDA CLINIC Implantologia, Stomatologia Estetyczna",
+    "phone": "tel. (32) 253 01 09kom. 505 299 322"
+  },
+  {
+    "address": {
+      "street": "ul. Orla 6 lok.79",
+      "postalCode": "05-091",
+      "city": "Ząbki",
+      "region": "mazowieckie"
+    },
+    "name": "eSdent Przychodnia Stomatologiczna Niepubliczny NZOZ",
+    "phone": "tel. (22) 781 45 01tel./fax (22) 781 45 00"
+  },
+  {
+    "address": {
+      "street": "ul. Wańkowicza 2/3a",
+      "postalCode": "02-796",
+      "city": "Warszawa",
+      "region": "mazowieckie"
+    },
+    "name": "Gabinet Dentystyczny K&K-Dent",
+    "phone": "tel. (22) 446 92 33 "
+  },
+  {
+    "address": {
+      "street": "ul. Krynicka 12",
+      "postalCode": "50-555",
+      "city": "Wrocław",
+      "region": "dolnośląskie"
+    },
+    "name": "Gabinet Stomatologiczny lek.stom. Ewa Smogorzewska-Majcher",
+    "phone": "tel. (71) 363 83 33 "
+  },
+  {
+    "address": {
+      "street": "ul. Wernyhory 36/1",
+      "postalCode": "02-727",
+      "city": "Warszawa",
+      "region": "mazowieckie"
+    },
+    "name": "Gabinet Stomatologiczny LIDENT dr Lidia Warda",
+    "phone": "tel. (22) 651 97 97fax (22) 847 69 96"
+  },
+  {
+    "address": {
+      "street": "ul. Remiszewska 1/1",
+      "postalCode": "03-550",
+      "city": "Warszawa",
+      "region": "mazowieckie"
+    },
+    "name": "Gabinet Stomatologiczny SANODENT",
+    "phone": "tel. (22) 744 00 34kom. 511 154 284"
+  },
+  {
+    "address": {
+      "street": "ul. Rycerska 15",
+      "postalCode": "84-230",
+      "city": "Rumia",
+      "region": "pomorskie"
+    },
+    "name": "Gabinet Stomatologiczny Zbigniew Krupa",
+    "phone": "tel. (58) 671 42 54 ul. Rycerska 15tel. (58) 778 01 59 ul. Łąkowa 1203"
+  },
+  {
+    "address": {
+      "street": "ul. Zachodnia 14",
+      "postalCode": "53-644",
+      "city": "Wrocław",
+      "region": "dolnośląskie"
+    },
+    "name": "InterDent Sp. z o.o. Specjalistyczne Centrum Stomatologiczne",
+    "phone": "tel. (71) 341 88 55kom. 731 000 180"
+  },
+  {
+    "address": {
+      "street": "aleja Tadeusza Kościuszki 32/10",
+      "postalCode": "90-419",
+      "city": "Łódź",
+      "region": "łódzkie"
+    },
+    "name": "INTERSTOM S.c.",
+    "phone": "tel./fax (42) 630 47 56tel. (42) 632 57 11"
+  },
+  {
+    "address": {
+      "street": "ul. Kalinowszczyzna 46b",
+      "postalCode": "20-129",
+      "city": "Lublin",
+      "region": "lubelskie"
+    },
+    "name": "KADREMA Sp. z o.o.",
+    "phone": "tel. (81) 748 48 16 "
+  },
+  {
+    "address": {
+      "street": "ul. Derkaczy 57b",
+      "postalCode": "04-969",
+      "city": "Warszawa",
+      "region": "mazowieckie"
+    },
+    "name": "Klinika Stomatologiczna BIORENIX-FALDENT",
+    "phone": "tel. (22) 872 19 98tel./fax (22) 872 95 26"
+  },
+  {
+    "address": {
+      "street": "al. 29 Listopada 178a",
+      "postalCode": "31-236",
+      "city": "Kraków",
+      "region": "małopolskie"
+    },
+    "name": "M.DENT Stomatologia",
+    "phone": "tel. (12) 665 35 50 "
+  },
+  {
+    "address": {
+      "street": "os. Szkolne 9",
+      "postalCode": "31-976",
+      "city": "Kraków",
+      "region": "małopolskie"
+    },
+    "name": "Małopolska Poradnia Stomatologiczna Sp. z o.o.",
+    "phone": "tel. (12) 643 25 25 "
+  },
+  {
+    "address": {
+      "street": "pl. Wolności 4",
+      "postalCode": "40-078",
+      "city": "Katowice",
+      "region": "śląskie"
+    },
+    "name": "Med Centrum Specjalistyczna Klinika Stomatologiczna",
+    "phone": "tel. (32) 352 56 50tel. (32) 352 56 40"
+  },
+  {
+    "address": {
+      "street": "",
+      "postalCode": "",
+      "city": "",
+      "region": ""
+    },
+    "name": "",
+    "phone": ""
+  },
+  {
+    "address": {
+      "street": "ul. Leszczyńskiego 5",
+      "postalCode": "50-078",
+      "city": "Wrocław",
+      "region": "dolnośląskie"
+    },
+    "name": "Medicover Stomatologia - Royal Dent",
+    "phone": "tel. (71) 344 11 29kom. 606 390 908"
+  },
+  {
+    "address": {
+      "street": "ul. Słoneczna 1",
+      "postalCode": "25-731",
+      "city": "Kielce",
+      "region": "świętokrzyskie"
+    },
+    "name": "Moto-Med",
+    "phone": "tel. (41) 345 11 47 ul. Słonecznatel. (41) 362 75 85 ul. Zagdańska"
+  },
+  {
+    "address": {
+      "street": "ul. Husarska 28",
+      "postalCode": "05-120",
+      "city": "Legionowo",
+      "region": "mazowieckie"
+    },
+    "name": "MÓJ DENTYSTA lek.stom. Marcin Dolecki Senior Instructor IAO",
+    "phone": "tel. (22) 784 51 35kom. 602 294 483"
+  },
+  {
+    "address": {
+      "street": "ul. Zygmunta Starego 33/1",
+      "postalCode": "44-100",
+      "city": "Gliwice",
+      "region": "śląskie"
+    },
+    "name": "N.Z.O.Z Poradnia Stomatologiczna i Protetyczna",
+    "phone": "tel. (32) 775 20 00kom. 609 566 491"
+  },
+  {
+    "address": {
+      "street": "ul. Szparagowa 10",
+      "postalCode": "91-211",
+      "city": "Łódź",
+      "region": "łódzkie"
+    },
+    "name": "NEO DENTICA Klinika Stomatologiczna i Medycyny Estetycznej",
+    "phone": "tel. (42) 254 64 21 "
+  },
+  {
+    "address": {
+      "street": "ul. Stroma 12",
+      "postalCode": "42-200",
+      "city": "Częstochowa",
+      "region": "śląskie"
+    },
+    "name": "Przychodnia Stomatologiczna DENTARIA",
+    "phone": "tel. (34) 366 01 87fax (34) 366 12 67"
+  },
+  {
+    "address": {
+      "street": "ul. Bóżnicza 1/208",
+      "postalCode": "61-651",
+      "city": "Poznań",
+      "region": "wielkopolskie"
+    },
+    "name": "RADUS Stomatologia",
+    "phone": "tel. (61) 855 12 43kom. 691 764 194"
+  },
+  {
+    "address": {
+      "street": "ul. Grobla Świętego Jerzego 14a",
+      "postalCode": "82-300",
+      "city": "Elbląg",
+      "region": "warmińsko-mazurskie"
+    },
+    "name": "Spółdzielnia Pracy MEDYK",
+    "phone": "tel. (55) 233 42 35tel. (55) 235 97 45"
+  },
+  {
+    "address": {
+      "street": "ul. Kalinowa 46",
+      "postalCode": "72-100",
+      "city": "Goleniów",
+      "region": "zachodniopomorskie"
+    },
+    "name": "STODENT - implanty, stomatologia, protetyka",
+    "phone": "kom. 603 611 861 (Wieczysław Stoiczkow)kom. 509 666 801 (Paweł Stoiczkow)"
+  },
+  {
+    "address": {
+      "street": "ul. Witkiewicza 17d",
+      "postalCode": "71-177",
+      "city": "Szczecin",
+      "region": "zachodniopomorskie"
+    },
+    "name": "Stomatologia na Pogodnie Elżbieta i Maciej Partyka",
+    "phone": "tel. (91) 489 98 88kom. 501 078 328"
+  },
+  {
+    "address": {
+      "street": "ul. Popiełuszki 19/21 paw.31",
+      "postalCode": "01-595",
+      "city": "Warszawa",
+      "region": "mazowieckie"
+    },
+    "name": "UNIMED",
+    "phone": "tel. (22) 833 46 12 "
+  },
+  {
+    "address": {
+      "street": "ul. Dziesięciny 12",
+      "postalCode": "15-806",
+      "city": "Białystok",
+      "region": "podlaskie"
+    },
+    "name": "Centrum Medyczno Stomatologiczne PRIMA MEDICA Bożena Kossakowska-Grzesiak",
+    "phone": "tel. 85 663 00 43 Dziesięcinytel. 85 675 62 61 Wtosa 36/12"
+  },
+  {
+    "address": {
+      "street": "ul. Pabianicka 25/1a",
+      "postalCode": "53-339",
+      "city": "Wrocław",
+      "region": "dolnośląskie"
+    },
+    "name": "DENTA-LID Gabinet Stomatologiczny Lidia Omska",
+    "phone": "tel. (71) 322 02 21kom. 601 773 412"
+  },
+  {
+    "address": {
+      "street": "ul. Startowa 1",
+      "postalCode": "80-461",
+      "city": "Gdańsk",
+      "region": "pomorskie"
+    },
+    "name": "DENTUS Gabinety Stomatologiczne",
+    "phone": "tel. (58) 769 37 48- Gdańskkom. 530 077 207 - Gdańsk"
+  },
+  {
+    "address": {
+      "street": "ul. Nowolipki 21",
+      "postalCode": "01-006",
+      "city": "Warszawa",
+      "region": "mazowieckie"
+    },
+    "name": "Duodent Przychodnia Lekarska Sp. z o.o.",
+    "phone": "tel. (22) 838 82 68tel. (22) 636 96 68"
+  },
+  {
+    "address": {
+      "street": "ul. Bulwar Dedala 28 C",
+      "postalCode": "54-130",
+      "city": "Wrocław",
+      "region": "dolnośląskie"
+    },
+    "name": "EXPERT DENTAL Eksperckie Centrum Stomatologiczne",
+    "phone": "tel. (71) 707 09 02kom. 739 070 902"
+  },
+  {
+    "address": {
+      "street": "ul. Chodkiewicza 37",
+      "postalCode": "25-122",
+      "city": "Kielce",
+      "region": "świętokrzyskie"
+    },
+    "name": "Gabinet Stomatologiczny Anna Buracka",
+    "phone": "kom. 698 097 296 "
+  },
+  {
+    "address": {
+      "street": "ul. Stasikówka 77c (Remiza OSP)",
+      "postalCode": "34-520",
+      "city": "Poronin",
+      "region": "małopolskie"
+    },
+    "name": "Gabinet Stomatologiczny dr Grzegorz Stankiewicz",
+    "phone": "kom. 608 688 151 "
+  },
+  {
+    "address": {
+      "street": "ul. Leśna 9",
+      "postalCode": "05-840",
+      "city": "Brwinów",
+      "region": "mazowieckie"
+    },
+    "name": "Kliniki Stomatologiczne ZUBAR",
+    "phone": "tel. (22) 729 52 20 Brwinówtel. (22) 728 80 00 Pruszków"
+  },
+  {
+    "address": {
+      "street": "ul. Wawrzyniaka 43",
+      "postalCode": "53-022",
+      "city": "Wrocław",
+      "region": "dolnośląskie"
+    },
+    "name": "LABODENT Krzysztof Piwowar",
+    "phone": "tel. (71) 362 87 86kom. 501 675 217"
+  },
+  {
+    "address": {
+      "street": "",
+      "postalCode": "",
+      "city": "",
+      "region": ""
+    },
+    "name": "",
+    "phone": ""
+  },
+  {
+    "address": {
+      "street": "ul. Przemysłowa 4",
+      "postalCode": "62-510",
+      "city": "Konin",
+      "region": "wielkopolskie"
+    },
+    "name": "Medyk-Dent",
+    "phone": "kom. 603 470 047 "
+  },
+  {
+    "address": {
+      "street": "plac św.Ducha 3",
+      "postalCode": "31-023",
+      "city": "Kraków",
+      "region": "małopolskie"
+    },
+    "name": "Miejskie Centrum Stomatologii Śródmieście Sp. z o.o.",
+    "phone": "tel. (12) 423 24 28 (rejestracja)tel. (12) 422 45 50 (chirurgia)"
+  },
+  {
+    "address": {
+      "street": "ul. Zakopiańska 6a",
+      "postalCode": "34-700",
+      "city": "Rabka-Zdrój",
+      "region": "małopolskie"
+    },
+    "name": "NZOZ Centrum Stomatologii Dominik",
+    "phone": "tel. (18) 267 07 39kom. 696 025 147"
+  },
+  {
+    "address": {
+      "street": "os. Kasprzaka 46",
+      "postalCode": "41-303",
+      "city": "Dąbrowa Górnicza",
+      "region": "śląskie"
+    },
+    "name": "NZOZ ERODENT S.C",
+    "phone": "tel. (32) 261 30 44kom. 603 921 353"
+  },
+  {
+    "address": {
+      "street": "al. Piłsudskiego 11/3",
+      "postalCode": "15-443",
+      "city": "Białystok",
+      "region": "podlaskie"
+    },
+    "name": "NZOZ Specjalistyczna Przychodnia Stomatologiczna I.J.Szarmach S.c.",
+    "phone": "tel. (85) 652 71 24 "
+  },
+  {
+    "address": {
+      "street": "ul. Mikołaja Kopernika 39/2",
+      "postalCode": "44-117",
+      "city": "Gliwice",
+      "region": "śląskie"
+    },
+    "name": "ORTODONCJA Urszula Rojek",
+    "phone": "tel. (32) 231 72 33 "
+  },
+  {
+    "address": {
+      "street": "ul. Kościelna 13",
+      "postalCode": "64-200",
+      "city": "Wolsztyn",
+      "region": "wielkopolskie"
+    },
+    "name": "Praktyka Stomatologii Rodzinnej lek.stom. Joanna Maśnica-Szymańska",
+    "phone": "tel. (68) 347 43 83kom. 502 348 478"
+  },
+  {
+    "address": {
+      "street": "ul. Targowa 4",
+      "postalCode": "43-300",
+      "city": "Bielsko-Biała",
+      "region": "śląskie"
+    },
+    "name": "PROFILDENT Gabinety i Pracownia Stomatologiczna",
+    "phone": "tel. (33) 818 57 12kom. 660 418 908"
+  },
+  {
+    "address": {
+      "street": "ul. Pestalozziego 7",
+      "postalCode": "85-095",
+      "city": "Bydgoszcz",
+      "region": "kujawsko-pomorskie"
+    },
+    "name": "Prywatna Klinika Chirurgii i Stomatologii Estetycznej ALFA-MED",
+    "phone": "tel. (52) 341 56 03 "
+  },
+  {
+    "address": {
+      "street": "ul. Łokietka 22",
+      "postalCode": "55-120",
+      "city": "Oborniki Śląskie",
+      "region": "dolnośląskie"
+    },
+    "name": "Stomatologia dla Rodziny",
+    "phone": "tel. (71) 310 26 12 "
+  },
+  {
+    "address": {
+      "street": "ul. Wojewódzka 50/5",
+      "postalCode": "40-026",
+      "city": "Katowice",
+      "region": "śląskie"
+    },
+    "name": "TOP-DENT BODY CARE",
+    "phone": "tel. (32) 251 46 94kom. 694 941 403"
+  },
+  {
+    "address": {
+      "street": "al. Wyzwolenia 95",
+      "postalCode": "71-411",
+      "city": "Szczecin",
+      "region": "zachodniopomorskie"
+    },
+    "name": "WIELMED S.c. Gabinet Stomatologiczny",
+    "phone": "tel. (91) 421 00 55 "
+  },
+  {
+    "address": {
+      "street": "ul. Obywatelska 187/189",
+      "postalCode": "94-104",
+      "city": "Łódź",
+      "region": "łódzkie"
+    },
+    "name": "Wytwórnia Zębów Sztucznych WIEDENT Sp.j.",
+    "phone": "tel. (42) 640 48 70tel. (42) 640 40 12"
+  },
+  {
+    "address": {
+      "street": "ul. Włóczków 6",
+      "postalCode": "30-103",
+      "city": "Kraków",
+      "region": "małopolskie"
+    },
+    "name": "Alfa Dental Nowoczesna Stomatologia Estetyczna",
+    "phone": "tel. (12) 431 15 62kom. 519 387 455"
+  },
+  {
+    "address": {
+      "street": "ul. Gniewska 21",
+      "postalCode": "81-047",
+      "city": "Gdynia",
+      "region": "pomorskie"
+    },
+    "name": "ASDENT Centrum Stomatologiczne S.c.",
+    "phone": "tel. (58) 664 06 75 "
+  },
+  {
+    "address": {
+      "street": "ul. A10/17",
+      "postalCode": "32-086",
+      "city": "Węgrzce",
+      "region": "małopolskie"
+    },
+    "name": "BAIKADENT STOMATOLOGIA ORTODONCJA IMPLANTOLOGIA AGATA BIL-MIECHÓWKA",
+    "phone": "tel. (12) 285 88 80 "
+  },
+  {
+    "address": {
+      "street": "ul. Rolna 47",
+      "postalCode": "43-100",
+      "city": "Tychy",
+      "region": "śląskie"
+    },
+    "name": "Bel-Vita Prywatna Przychodnia Stomatologiczno-Medyczna",
+    "phone": "kom. 502 923 835 "
+  },
+  {
+    "address": {
+      "street": "ul. Łąkowa 16",
+      "postalCode": "57-320",
+      "city": "Polanica-Zdrój",
+      "region": "dolnośląskie"
+    },
+    "name": "Centrum ESTETIQUE - Medycyna Estetyczna i Stomatologia",
+    "phone": "tel. (74) 662 92 29kom. 603 703 373"
+  },
+  {
+    "address": {
+      "street": "ul. Legionów 100a/u1",
+      "postalCode": "81-472",
+      "city": "Gdynia",
+      "region": "pomorskie"
+    },
+    "name": "CENTRUM STOMATOLOGICZNE Dental-Pro",
+    "phone": "tel. (58) 662 22 66 Redłowotel. (58) 732 11 55 Pogórze"
+  },
+  {
+    "address": {
+      "street": "ul. Bandurskiego 15/2",
+      "postalCode": "71-685",
+      "city": "Szczecin",
+      "region": "zachodniopomorskie"
+    },
+    "name": "Centrum Stomatologiczne dr n. med. Bartosz Jadczyk",
+    "phone": "tel. (91) 455 85 55 "
+  },
+  {
+    "address": {
+      "street": "",
+      "postalCode": "",
+      "city": "",
+      "region": ""
+    },
+    "name": "",
+    "phone": ""
+  },
+  {
+    "address": {
+      "street": "ul. F.Nowowiejskiego 6d",
+      "postalCode": "20-880",
+      "city": "Lublin",
+      "region": "lubelskie"
+    },
+    "name": "Centrum Stomatologiczne New-Dent dr n. med. Małgorzata Kiernicka",
+    "phone": "tel. (81) 743 04 74tel. (81) 743 64 84 ul. Chopina 25/18"
+  },
+  {
+    "address": {
+      "street": "ul. Kopernika 24",
+      "postalCode": "41-300",
+      "city": "Dąbrowa Górnicza",
+      "region": "śląskie"
+    },
+    "name": "Centrum Stomatologii ESTETICA",
+    "phone": "tel. (32) 261 33 88kom. 606 718 122"
+  },
+  {
+    "address": {
+      "street": "ul. Śląska 40",
+      "postalCode": "22-400",
+      "city": "Zamość",
+      "region": "lubelskie"
+    },
+    "name": "Centrum Stomatologii Estetycznej MULTIMED",
+    "phone": "tel. (84) 639 63 30tel./fax (84) 639 62 10"
+  },
+  {
+    "address": {
+      "street": "ul. Jana Kazimierza 64",
+      "postalCode": "01-248",
+      "city": "Warszawa",
+      "region": "mazowieckie"
+    },
+    "name": "Centrum Stomatologii na Jana Kazimierza Wola-Warszawa, Stomatolog, Dentysta",
+    "phone": "kom. 735 311 956 "
+  },
+  {
+    "address": {
+      "street": "ul. Mydlana 31c",
+      "postalCode": "32-500",
+      "city": "Chrzanów",
+      "region": "małopolskie"
+    },
+    "name": "Centrum Uśmiechu Stomatologia Rodzinna",
+    "phone": "tel. (32) 623 70 32kom. 501 864 575"
+  },
+  {
+    "address": {
+      "street": "ul. Paderewskiego 32",
+      "postalCode": "42-400",
+      "city": "Zawiercie",
+      "region": "śląskie"
+    },
+    "name": "Centrum Zdrowego Uśmiechu DENT-LUX Jarosław Pardela",
+    "phone": "tel. (32) 670 92 82kom. 602 349 923"
+  },
+  {
+    "address": {
+      "street": "ul. Curie-Skłodowskiej 3/1",
+      "postalCode": "50-381",
+      "city": "Wrocław",
+      "region": "dolnośląskie"
+    },
+    "name": "Colibri Dent Sp. z o.o.",
+    "phone": "tel. (71) 729 83 19 "
+  },
+  {
+    "address": {
+      "street": "ul. Mickiewicza 6",
+      "postalCode": "78-500",
+      "city": "Drawsko Pomorskie",
+      "region": "zachodniopomorskie"
+    },
+    "name": "Dentysta, Stomatolog Monika Bogusz",
+    "phone": "tel. (94) 363 61 36kom. 667 667 667"
+  },
+  {
+    "address": {
+      "street": "ul. Działkowa 111/4",
+      "postalCode": "05-808",
+      "city": "Pruszków",
+      "region": "mazowieckie"
+    },
+    "name": "E-Dent Gabinet Stomatologiczny",
+    "phone": "kom. 501 368 010tel. (22) 415 00 82"
+  },
+  {
+    "address": {
+      "street": "ul. Fabryczna 48a",
+      "postalCode": "62-030",
+      "city": "Luboń",
+      "region": "wielkopolskie"
+    },
+    "name": "ENDOPROTETYKA-GETT Sp. z o.o.",
+    "phone": "kom. 602 324 312 "
+  },
+  {
+    "address": {
+      "street": "osiedle Jagodowe 22/1",
+      "postalCode": "62-002",
+      "city": "Suchy Las",
+      "region": "wielkopolskie"
+    },
+    "name": "Gabinet Stomatologiczny EBM",
+    "phone": "tel. (61) 812 55 99kom. 607 094 909"
+  },
+  {
+    "address": {
+      "street": "ul. Kościuszki 38",
+      "postalCode": "34-300",
+      "city": "Żywiec",
+      "region": "śląskie"
+    },
+    "name": "Gabinet Stomatologiczny Izabella Sanetra-Bielawska",
+    "phone": "tel. (33) 861 94 36 "
+  },
+  {
+    "address": {
+      "street": "ul. Malczewskiego 8b/1",
+      "postalCode": "71-616",
+      "city": "Szczecin",
+      "region": "zachodniopomorskie"
+    },
+    "name": "Gabinet Stomatologiczny lek.stom. Ewa Mazurek",
+    "phone": "tel. (91) 423 01 57kom. 507 550 711"
+  },
+  {
+    "address": {
+      "street": "ul. Jaszowiecka 8/34a",
+      "postalCode": "02-934",
+      "city": "Warszawa",
+      "region": "mazowieckie"
+    },
+    "name": "Gabinet Stomatologiczny Marcin Bilski",
+    "phone": "kom. 604 456 834 "
+  },
+  {
+    "address": {
+      "street": "ul. Wąska 5",
+      "postalCode": "78-200",
+      "city": "Białogard",
+      "region": "zachodniopomorskie"
+    },
+    "name": "Gabinet Stomatologiczny NZOZ M-P Dent",
+    "phone": "tel. (94) 358 12 25 "
+  },
+  {
+    "address": {
+      "street": "ul. Stryjeńskich 17/196",
+      "postalCode": "02-791",
+      "city": "Warszawa",
+      "region": "mazowieckie"
+    },
+    "name": "Gabinet Stomatologiczny Porębska Joanna",
+    "phone": "tel. (22) 816 81 67kom. 501 921 390"
+  },
+  {
+    "address": {
+      "street": "ul. Sikorskiego 2o",
+      "postalCode": "75-360",
+      "city": "Koszalin",
+      "region": "zachodniopomorskie"
+    },
+    "name": "Gabinet Stomatologiczny Urszula Deckert",
+    "phone": "kom. 531 444 602tel. (94) 343 81 29"
+  },
+  {
+    "address": {
+      "street": "ul. Czwartaków 16/1d",
+      "postalCode": "09-410",
+      "city": "Płock",
+      "region": "mazowieckie"
+    },
+    "name": "Gabinet Stomatologiczny UŚMIECH",
+    "phone": "tel. (24) 268 84 55kom. 508 383 281"
+  },
+  {
+    "address": {
+      "street": "aleja Piastów 28a",
+      "postalCode": "70-326",
+      "city": "Szczecin",
+      "region": "zachodniopomorskie"
+    },
+    "name": "Gabinety Stomatologiczne Ars Dentica",
+    "phone": "tel. (91) 433 10 77kom. 609 501 505"
+  },
+  {
+    "address": {
+      "street": "ul. Okrzei 2/18",
+      "postalCode": "81-228",
+      "city": "Gdynia",
+      "region": "pomorskie"
+    },
+    "name": "IPS DEODENT",
+    "phone": "kom. 693 630 455 "
+  },
+  {
+    "address": {
+      "street": "",
+      "postalCode": "",
+      "city": "",
+      "region": ""
+    },
+    "name": "",
+    "phone": ""
+  },
+  {
+    "address": {
+      "street": "ul. Rajska 10/61 p.III",
+      "postalCode": "80-850",
+      "city": "Gdańsk",
+      "region": "pomorskie"
+    },
+    "name": "IZADENT",
+    "phone": "tel. (58) 690 80 80kom. 505 588 768"
+  },
+  {
+    "address": {
+      "street": "Czerteż 161",
+      "postalCode": "38-500",
+      "city": "Sanok",
+      "region": "podkarpackie"
+    },
+    "name": "Jerzy Pikus DermaDent Stomatologia",
+    "phone": "tel. (13) 464 99 92kom. 519 108 720 STOMATOLOGIA"
+  },
+  {
+    "address": {
+      "street": "ul. Narutowicza 68",
+      "postalCode": "20-013",
+      "city": "Lublin",
+      "region": "lubelskie"
+    },
+    "name": "Klinika Pięknego Uśmiechu M.Pucek Niepubliczny Zakład Opieki Zdrowotnej",
+    "phone": "tel. (81) 532 66 22 "
+  },
+  {
+    "address": {
+      "street": "Aleja Krakowska 54",
+      "postalCode": "05-090",
+      "city": "Raszyn",
+      "region": "mazowieckie"
+    },
+    "name": "Klinika Stomatologiczna ORTOGNATYKA",
+    "phone": "tel. (22) 720 70 70kom. 602 737 210"
+  },
+  {
+    "address": {
+      "street": "ul. Kurpiowska 1",
+      "postalCode": "44-105",
+      "city": "Gliwice",
+      "region": "śląskie"
+    },
+    "name": "Klinika Stomatologiczna VIDENTAL Sp.j.",
+    "phone": "tel. (32) 279 24 62kom. 664 665 664"
+  },
+  {
+    "address": {
+      "street": "ul. Stefana Żeromskiego 10",
+      "postalCode": "34-100",
+      "city": "Wadowice",
+      "region": "małopolskie"
+    },
+    "name": "KORDENT Stomatologia i Gabinety Lekarskie",
+    "phone": "kom. 504 118 855tel. (33) 825 11 70"
+  },
+  {
+    "address": {
+      "street": "ul. Pamięci Katynia 12a/1",
+      "postalCode": "26-600",
+      "city": "Radom",
+      "region": "mazowieckie"
+    },
+    "name": "L-dental Laboratory",
+    "phone": "tel./fax (48) 331 45 00tel. (48) 369 99 00-02"
+  },
+  {
+    "address": {
+      "street": "ul. Ruczaj 60",
+      "postalCode": "30-409",
+      "city": "Kraków",
+      "region": "małopolskie"
+    },
+    "name": "Lekarz Stomatolog Krępa Grzegorz",
+    "phone": "kom. 601 328 685 "
+  },
+  {
+    "address": {
+      "street": "ul. A.Zamoyskiego 2",
+      "postalCode": "58-560",
+      "city": "Jelenia Góra",
+      "region": "dolnośląskie"
+    },
+    "name": "MM Kaczmarek",
+    "phone": "tel. (75) 755 18 36kom. 796 630 300"
+  },
+  {
+    "address": {
+      "street": "ul. Serocka 6",
+      "postalCode": "04-333",
+      "city": "Warszawa",
+      "region": "mazowieckie"
+    },
+    "name": "NATALDENT Gabinet Stomatologiczny Natalii Bobkowskiej",
+    "phone": "tel. (22) 499 32 80tel. (22) 810 08 89"
+  },
+  {
+    "address": {
+      "street": "ul. Sienkiewicza 41",
+      "postalCode": "42-600",
+      "city": "Tarnowskie Góry",
+      "region": "śląskie"
+    },
+    "name": "Niepubliczny Zakład Opieki Zdrowotnej DE-MED",
+    "phone": "tel. (32) 285 42 97 "
+  },
+  {
+    "address": {
+      "street": "ul. Świerczewskiego 34",
+      "postalCode": "41-100",
+      "city": "Siemianowice Śląskie",
+      "region": "śląskie"
+    },
+    "name": "Niepubliczny Zakład Opieki Zdrowotnej DENTICA",
+    "phone": "kom. 507 034 850tel. (32) 228 94 71"
+  },
+  {
+    "address": {
+      "street": "ul. Sieronia 1",
+      "postalCode": "44-100",
+      "city": "Gliwice",
+      "region": "śląskie"
+    },
+    "name": "NZOZ ART-MEDICA Gabinet Stomatologiczny Marek Drabik",
+    "phone": "tel. (32) 270 85 87kom. 663 332 981"
+  },
+  {
+    "address": {
+      "street": "ul. Księcia Bogusława X 33/2",
+      "postalCode": "70-246",
+      "city": "Szczecin",
+      "region": "zachodniopomorskie"
+    },
+    "name": "NZOZ KAdent Ilona Kozłowska, Adam Kozłowski",
+    "phone": "tel. (91) 433 63 32fax (91) 433 00 79"
+  }
+]
